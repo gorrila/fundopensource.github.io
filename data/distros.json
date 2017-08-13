@@ -1,34 +1,42 @@
 {
     "arch-linux": {
         "title": "Arch Linux",
-        "address": "https://www.archlinux.org/donate/"
+        "address": "https://www.archlinux.org/donate/",
+        "tagline": "A simple, lightweight distribution"
     },
     "debian": {
         "title": "Debian",
-        "address": "https://www.debian.org/donations"
+        "address": "https://www.debian.org/donations",
+        "tagline": "The universal operating system"
     },
     "elementary": {
         "title": "elementary OS",
-        "address": "https://elementary.io/get-involved"
+        "address": "https://elementary.io/get-involved",
+        "tagline": "A fast and open replacement for Windows and macOS"
     },
     "linux-mint": {
         "title": "Linux Mint",
-        "address": "https://linuxmint.com/donors.php"
+        "address": "https://linuxmint.com/donors.php",
+        "tagline": "From freedom came elegance"
     },
     "opensuse": {
         "title": "openSUSE",
-        "address": "https://shop.opensuse.org/"
+        "address": "https://shop.opensuse.org/",
+        "tagline": "The makers' choice for sysadmins, developers and desktop users"
     },
     "solus": {
         "title": "Solus",
-        "address": "https://solus-project.com/support/"
+        "address": "https://solus-project.com/support/",
+        "tagline": "The Personal OS for Personal Computers"
     },
     "ubuntu": {
         "title": "Ubuntu",
-        "address": "https://www.ubuntu.com/download/desktop/contribute"
+        "address": "https://www.ubuntu.com/download/desktop/contribute",
+        "tagline": "Linux for Human Beings"
     },
     "ubuntu-mate": {
         "title": "Ubuntu MATE",
-        "address": "https://ubuntu-mate.org/donate/"
+        "address": "https://ubuntu-mate.org/donate/",
+        "tagline": "For a retrospective future"
     }
 }

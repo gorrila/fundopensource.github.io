@@ -1,10 +1,12 @@
 {
     "mc": {
         "title": "Marc Jeanmougin",
-        "address": "https://www.patreon.com/marcjeanmougin"
+        "address": "https://www.patreon.com/marcjeanmougin",
+        "tagline": "Creating Inkscape"
     },
     "snwh": {
         "title": "Sam Hewitt",
-        "address": "https://www.patreon.com/snwh"
+        "address": "https://www.patreon.com/snwh",
+        "tagline": "Creating Open Source Icons and Designs"
     }
 }

@@ -13,6 +13,9 @@ $.getJSON('/data/distros.json', function (json) {
 
         var title = '<h1>' + distro.title + '</h1>';
         $('.' + key +' .content-area').append (title);
+
+        var tagline = '<p data-align="center">' + distro.tagline + '</p>';
+        $('.' + key +' .content-area').append (tagline);
     }
 });
 
@@ -31,6 +34,9 @@ $.getJSON('/data/apps.json', function (json) {
 
         var title = '<h1>' + app.title + '</h1>';
         $('.' + key +' .content-area').append (title);
+
+        var tagline = '<p data-align="center">' + app.tagline + '</p>';
+        $('.' + key +' .content-area').append (tagline);
     }
 });
 
@@ -49,5 +55,8 @@ $.getJSON('/data/people.json', function (json) {
 
         var title = '<h1>' + person.title + '</h1>';
         $('.' + key +' .content-area').append (title);
+
+        var tagline = '<p data-align="center">' + person.tagline + '</p>';
+        $('.' + key +' .content-area').append (tagline);
     }
 });
