@@ -16,6 +16,12 @@ $.getJSON('/data/distros.json', function (json) {
 
         var tagline = '<p data-align="center">' + distro.tagline + '</p>';
         $('.' + key +' .content-area').append (tagline);
+
+        $('.' + key +' .content-area').append ('<hr/>');
+
+        var store_link = '<a class="action" href="'+ distro.store
+            + '" target="_blank"><i class="fa fa-fw fa-shopping-basket"></i><span>Buy Merch<span></a>';
+        $('.' + key +' .content-area').append (store_link);
     }
 });
 
