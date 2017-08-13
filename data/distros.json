@@ -1,20 +1,23 @@
 {
     "arch-linux": {
         "title": "Arch Linux",
-        "address": "https://www.archlinux.org/donate/",
+        "address": "https://www.archlinux.org",
         "tagline": "A simple, lightweight distribution",
+        "funds": "https://www.archlinux.org/donate",
         "store": "https://www.unixstickers.com/tag/archlinux"
     },
     "debian": {
         "title": "Debian",
-        "address": "https://www.debian.org/donations",
+        "address": "https://www.debian.org",
         "tagline": "The universal operating system",
+        "funds": "https://www.debian.org/donations",
         "store": "https://www.debian.org/misc/merchandise"
     },
     "elementary": {
         "title": "elementary OS",
         "address": "https://elementary.io/get-involved",
         "tagline": "A fast and open replacement for Windows and macOS",
+        "funds": "https://elementary.io/get-involved#funding",
         "store": "https://elementary.io/store/"
     },
     "fedora": {
@@ -25,8 +28,9 @@
     },
     "linux-mint": {
         "title": "Linux Mint",
-        "address": "https://linuxmint.com/donors.php",
+        "address": "https://linuxmint.com",
         "tagline": "From freedom came elegance",
+        "funds": "https://linuxmint.com/donors.php",
         "store": "https://www.linuxmint.com/store.php"
     },
     "opensuse": {
@@ -37,20 +41,23 @@
     },
     "solus": {
         "title": "Solus",
-        "address": "https://solus-project.com/support/",
+        "address": "https://solus-project.com",
         "tagline": "The Personal OS for Personal Computers",
+        "funds": "https://solus-project.com/support",
         "store": "https://www.unixstickers.com/tag/solus"
     },
     "ubuntu": {
         "title": "Ubuntu",
-        "address": "https://www.ubuntu.com/download/desktop/contribute",
+        "address": "https://www.ubuntu.com",
         "tagline": "Fast, secure and simple, Ubuntu powers millions of PCs worldwide",
+        "funds": "https://www.ubuntu.com/download/desktop/contribute",
         "store": "https://shop.canonical.com/"
     },
     "ubuntu-mate": {
         "title": "Ubuntu MATE",
-        "address": "https://ubuntu-mate.org/donate/",
+        "address": "https://ubuntu-mate.org",
         "tagline": "For a retrospective future",
+        "funds": "https://ubuntu-mate.org/donate",
         "store": "https://ubuntu-mate.boutique/"
     }
 }
