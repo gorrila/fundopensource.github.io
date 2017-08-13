@@ -30,6 +30,12 @@ $.getJSON('/data/distros.json', function (json) {
                 + '" target="_blank"><i class="fa fa-fw fa-shopping-basket"></i><span>Buy Merch<span></a>';
             $('.' + key +' .content-area').append (store_link);
         }
+
+        if (distro.contribute) {
+            var contribute_link = '<a class="action" href="'+ distro.contribute
+                + '" target="_blank"><i class="fa fa-fw fa-briefcase"></i><span>Volunteer Your Time<span></a>';
+            $('.' + key +' .content-area').append (contribute_link);
+        }
     }
 });
 
