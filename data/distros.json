@@ -1,0 +1,34 @@
+{
+    "arch-linux": {
+        "title": "Arch Linux",
+        "address": "https://www.archlinux.org/donate/"
+    },
+    "debian": {
+        "title": "Debian",
+        "address": "https://www.debian.org/donations"
+    },
+    "elementary": {
+        "title": "elementary OS",
+        "address": "https://elementary.io/get-involved"
+    },
+    "linux-mint": {
+        "title": "Linux Mint",
+        "address": "https://linuxmint.com/donors.php"
+    },
+    "opensuse": {
+        "title": "openSUSE",
+        "address": "https://shop.opensuse.org/"
+    },
+    "solus": {
+        "title": "Solus",
+        "address": "https://solus-project.com/support/"
+    },
+    "ubuntu": {
+        "title": "Ubuntu",
+        "address": "https://www.ubuntu.com/download/desktop/contribute"
+    },
+    "ubuntu-mate": {
+        "title": "Ubuntu MATE",
+        "address": "https://ubuntu-mate.org/donate/"
+    }
+}
