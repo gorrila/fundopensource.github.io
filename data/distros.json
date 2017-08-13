@@ -38,7 +38,7 @@
     "ubuntu": {
         "title": "Ubuntu",
         "address": "https://www.ubuntu.com/download/desktop/contribute",
-        "tagline": "Linux for Human Beings",
+        "tagline": "Fast, secure and simple, Ubuntu powers millions of PCs worldwide",
         "store": "https://shop.canonical.com/"
     },
     "ubuntu-mate": {
