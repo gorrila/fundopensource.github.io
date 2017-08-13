@@ -17,6 +17,12 @@
         "tagline": "A fast and open replacement for Windows and macOS",
         "store": "https://elementary.io/store/"
     },
+    "fedora": {
+        "title": "Fedora",
+        "address": "https://fedoraproject.org/wiki/Join",
+        "tagline": "Less setup, more innovation.",
+        "store": "https://www.unixstickers.com/tag/fedora"
+    },
     "linux-mint": {
         "title": "Linux Mint",
         "address": "https://linuxmint.com/donors.php",
