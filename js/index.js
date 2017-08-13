@@ -33,3 +33,21 @@ $.getJSON('/data/apps.json', function (json) {
         $('.' + key +' .content-area').append (title);
     }
 });
+
+$.getJSON('/data/people.json', function (json) {
+    for (var key in json) {
+        var person = json[key];
+
+        var card = '<a class="card ' + key + '" href="' + person.address + '" target="_blank"></a>';
+        $('.deck.people').append (card);
+
+        var image_header = '<img class="image-header" src="/images/faces/' + key + '.jpg"></img>';
+        $('.card.' + key).append (image_header);
+
+        var content_area = '<div class="content-area"></div>';
+        $('.card.' + key).append (content_area);
+
+        var title = '<h1>' + person.title + '</h1>';
+        $('.' + key +' .content-area').append (title);
+    }
+});
