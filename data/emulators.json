@@ -1,1 +1,26 @@
-
+{
+    "higan": {
+        "title": "Higan",
+        "address": "https://byuu.org/emulation/higan/",
+        "tagline": "It's my goal to create the most accurate SNES emulation possible.",
+        "contribute": "https://www.patreon.com/byuu"
+    },
+    "melonds": {
+        "title": "MelonDS",
+        "address": "http://melonds.kuribo64.net/",
+        "tagline": "melonDS is a new DS emulator",
+        "contribute": "https://www.patreon.com/staplebutter"
+    },
+    "Cxbx-Reloaded": {
+        "title": "elementary OS",
+        "address": "http://cxbx-reloaded.co.uk/",
+        "tagline": "Cxbx-Reloaded is a work-in-progress Xbox Emulator for Microsoft Windows",
+        "contribute": "https://www.patreon.com/LukeUsher"
+    },
+    "mgba": {
+        "title": "mGBA",
+        "address": "https://mgba.io/",
+        "tagline": "mGBA is a modern Game Boy Advance emulator under active development",
+        "contribute": "https://www.patreon.com/mgba"
+    }
+}
