@@ -37,8 +37,8 @@
     },
     "yabause": {
         "title": "Libretro",
-        "address": "http://www.libretro.com/",
+        "address": "https://yabause.org/",
         "tagline": "Yabause Team is creating a Sega Saturn emulator",
-        "contribute": "https://www.patreon.com/libretro"
+        "contribute": "https://www.patreon.com/yabause"
     }
 }
