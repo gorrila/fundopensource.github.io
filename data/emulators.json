@@ -1,8 +1,14 @@
 {
+    "rpcs3": {
+        "title": "RPCS3",
+        "address": "https://rpcs3.net/",
+        "tagline": "Open-source Sony PlayStation 3 Emulator for Windows and Linux",
+        "contribute": "https://www.patreon.com/Nekotekina"
+    },
     "higan": {
         "title": "Higan",
         "address": "https://byuu.org/emulation/higan/",
-        "tagline": "It's my goal to create the most accurate SNES emulation possible.",
+        "tagline": "The goal is to create the most accurate SNES emulation possible",
         "contribute": "https://www.patreon.com/byuu"
     },
     "melonds": {
@@ -20,7 +26,19 @@
     "mgba": {
         "title": "mGBA",
         "address": "https://mgba.io/",
-        "tagline": "mGBA is a modern Game Boy Advance emulator under active development",
+        "tagline": "mGBA is a modern Game Boy Advance emulator",
         "contribute": "https://www.patreon.com/mgba"
+    },
+    "libretro": {
+        "title": "Libretro",
+        "address": "http://www.libretro.com/",
+        "tagline": "The Libretro Team is creating RetroArch and Lakka",
+        "contribute": "https://www.patreon.com/libretro"
+    },
+    "yabause": {
+        "title": "Libretro",
+        "address": "http://www.libretro.com/",
+        "tagline": "Yabause Team is creating a Sega Saturn emulator",
+        "contribute": "https://www.patreon.com/libretro"
     }
 }
